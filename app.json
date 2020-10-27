@@ -21,7 +21,7 @@
         },
         "V2RAYPATH": {
             "description": "V2RAYPATH",
-            "value": "/v2raypath"        
+            "value": "/"        
         },
         "UUID": {
             "description": "V2RAY UUID",
